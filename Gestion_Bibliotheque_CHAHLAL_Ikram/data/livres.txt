@@ -1,0 +1,19 @@
+1;Power;ahmed khalil;2002;Litterature;empruntï¿½
+2;Summer;hanae rochdi;2009;Science;empruntï¿½
+3;First Day;hamid jalal;2016;Biographie;empruntï¿½
+4;L'etranger;salim tarek;2018;histoire;empruntï¿½
+5;Thinking;hajar fanel;2023;informatique;disponible
+6;Reflexion;ahmed rochdi;2010;histoire;disponible
+7;Clean code;hajar fanel;2024;informatique;disponible
+8;Python;hajar fanel;2024;informatique;disponible
+9;Design pattern;hajar fanel;2025;informatique;disponible
+10;Temps;ahmed rochdi;2015;histoire;disponible
+11;Days;salim tarek;2017;biographie;disponible
+12;Door;salim fanel;2019;Science;emprunté
+14;POO;salim fanel;2019;Science;emprunté
+15;JavaScript;salim fanel;2019;Science;emprunté
+16;Wat;hajar fanel;2024;informatique;disponible
+20;InfoGI3;salim;2015;Science;disponible
+2222;Hello;ikraaaam;2025;histoire;disponible
+22;hello;ahmed;2002;histoire;emprunté
+40;heelo;ikraaaaam;2024;informatique;disponible

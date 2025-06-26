@@ -1,0 +1,24 @@
+1;ikram chahlal;
+2;khalid berran;2
+3;samir atik;
+4;khaoula hani;4
+5;salma bisat;5
+6;lamyae miyar;6
+7;asmae jerraf;
+8;ilham laner;
+9;haytam;
+10;salim mouraj;
+11;kalil seba;
+12;omar gelol;
+13;karim basim;
+14;badr karim;
+15;kawtar fitra;
+16;moad khlil;
+17;ziad brop;
+20;kawtar;
+21;IKRAM CHAHLAL;
+22;IKRAAAM;12,15,14
+;;
+300;houda;
+30;khalid;22
+40;salma;
